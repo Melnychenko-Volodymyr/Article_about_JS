@@ -1,0 +1,26 @@
+body {
+	background-color: lightblue;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	text-align: center;
+}	
+p {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	margin-bottom: 40px;
+}
+.footer {
+	font-style: italic;
+	color: blue;
+	text-align: right;
+}
+.picture {
+	width: 120px;
+	padding: 10px;
+	margin: 20px;
+	outline: 1px solid gray;
+	background-color: rgb(240,240,240);
+	float: left;
+}
